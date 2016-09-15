@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_29eae9bb08dff2648069fd1a072defacb0260d94\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_0e6b3aed0a27d3a98d1f12c1d0e64a0054af5ee7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_1f45be464fc46aeab2e9f094c9827b6752d4eb4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_a30da440c46be292b1c7de5b5aef9fba08bd3d50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_dbacd8fac99cef259d5c6ff30b3e0ee923e48c70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_0164953b987d5cef99f72cb2d49c646f89d8892f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c203931003e248c7a4cf001d2101e1337261ee44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_9395e3f641b1d86f17a0accf788f2fbafc1561e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_a99e8d3a25e7b8db7097485d58104e4b57fb5ca2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_dfcdc3d9ce1cc904da0f1b1d7f1af7544eaffe45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_6cdb55069502dfa8a03367d7a037bb229b7f26cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_83cff84196553436069d8ce276e33694a2c21645\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_57eacaae048793600b63e665996e1296b522dca6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_a4e21a9c403861182cfabc6420b4fea7e7a8615f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6dd48ba2543265edf90f6d3991213325bf7bc0b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_45fe8da24d18b94aafe16fb375268de45556c557\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f4866383d0f579fabce1625b00eada4ba3cabb3e">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af772ea193f6d8ff83394e7d3c59c85d74bbca3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_6828eb47313ab3de887c223be4d069ba3b3d909d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_def22ffa3838906c9993abf0bc24d0bf6b12cc62\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_cdd861090b8cba34c728f0c79547159ede1c6ed8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_07661592230716be081b48f9fb188e311f642158\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_d751bb471b0a3bcce8a9b7b9b39382d01671d3e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_29ccb85475857f99f4ed9937461e9cab2fd26a76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_74ebcd443aae937722d805c8cfc861af94daf8ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_82c2f3eebea525d058ba049198fd966ed291de35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_af150d98797d5a2a6f74b560c93fe5dc8d9d3e1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_877438acfd67879c4477e9c391853dd6642361f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_dcd7c34d045d2a12116c043d34e9940d815697d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_684f897240f07af363ed5658b8b01cd1e9328ef0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a4fc7db387a0bcfa086c82ea58a888e38ae12004\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2146358323f72ecc584f13ac68500c9d6cb89abf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_eabed543803054833d3c87036faaeb1019605c35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_a62964b0584dcf9e2f8edca17fb19c53a9b0e79e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7730c92262e6cdcd7de3338cc42554ced84bb82d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_6891422759b01cdf821369f755b2dcf171a6e607\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_f0f460200a097913752928719969fa463df4cbc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_405f3980ff0b816b37f10ad0af1147d768f34934\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_6554b5231e13ef07c2d429e6dee09d33e64078d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_4c6baaf6b1077dd5eae4a9751b21ec9e7c7955a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_0f75a463fbbb772268d25aa3c53cda56d152b988\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_b396a1f0f68c07f6aa143f6a3e66159bffbe1fb4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_8c6d2e9b454a2a4a134d02d9e88793c4ef4e680c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_929d037a809cbe276f3e3c7001f839cd55e4b9be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_0ce10e42cd909f5f2e97ab46d630d8a131cd2d8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_76dfdf598056ce720c2f4f8f37ab8203372fed38\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_cfae6b88364772eeba183f5abb877ae8dff1e284\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_fe21afd2d6f22790ae2954e756feb126cddaf5d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_35800e21280304c8d4471db51e73cc4815f1fd81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_b47640eadfd9a07e62b735fb7e6ab6adf77546f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_c266bcd49434b7f0e79e7b837ef393515a758426\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_518802301ed85b74ea46caf12ac2c10b4f3c9ce0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_ab1b3a6f1730a784e1e1fd0eb3462613122b4743\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_225d437008f3a90b6620892c4161ce471a8ca551\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_2a397313823689714b2082649481d0985a37a97d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_995b7948231c235819b40787784022466fffc17e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_7a0fe61b1b1c7c3a678e75ffc957b02140479b8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b10675e71dd966de2d54b2f02dc20c0fdfeb8e07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6e2d14b62acd12199ec4df366b1aade6e6506589\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_10ffaf9e42b803faf276ac2e38d0f32ef230f710\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_30733211dea8ccbe55e9b5f526085feb11d665d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_57f2cfbc7cbf36ff6bc862e509b93fe4a0ebc150\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_b397d1c34fa174d267ae6e85003d7b59c050468b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_0f1f4bdf309eb79c3994bee80ffe88a593cf40b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_c06f893ea191a1f7ccdc20ff388cf1c1a0012dbd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="96b27e5ea1c508d9ba7af6bc89d0281d7b1b969e">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4d249e37b282f6b095574cda6404ddeadc669781\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_7ecf780e6617ce5fe721ec7ee5650848c0e01cc9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7473a90ab824b63f26659a7e4d399e039af6f092\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_519083fdafcf7967500871338c09922b987eeb80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Nicolas\Google Drive\IN&apos;TECH\Android\Test_FourSquare\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_fd811af14ac8552e0ec6bc91de32e9e04276192e\classes.dex" />
+    </item>
+
+</items>
